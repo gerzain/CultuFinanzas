@@ -17,7 +17,7 @@ import com.developer.cultufinanzas.modelo.Glosario;
 public class FragmentoCategoria extends Fragment {
 
     private static final String INDICE_SECCION
-            = "com.restaurantericoparico.FragmentoCategoriasTab.extra.INDICE_SECCION";
+            = "com.developer.cultufinanzas.FragmentoCategoriasTab.extra.INDICE_SECCION";
 
     private RecyclerView reciclador;
     private GridLayoutManager layoutManager;
